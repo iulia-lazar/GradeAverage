@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IuliaLazar\\source\\repos\\GradeAverage\\GradeAverage\\GradeAverage\\GradeAverage.csproj": {}
+    "C:\\git-iasi\\GradeAverage\\GradeAverage\\GradeAverage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IuliaLazar\\source\\repos\\GradeAverage\\GradeAverage\\GradeAverage\\GradeAverage.csproj": {
+    "C:\\git-iasi\\GradeAverage\\GradeAverage\\GradeAverage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IuliaLazar\\source\\repos\\GradeAverage\\GradeAverage\\GradeAverage\\GradeAverage.csproj",
+        "projectUniqueName": "C:\\git-iasi\\GradeAverage\\GradeAverage\\GradeAverage.csproj",
         "projectName": "GradeAverage",
-        "projectPath": "C:\\Users\\IuliaLazar\\source\\repos\\GradeAverage\\GradeAverage\\GradeAverage\\GradeAverage.csproj",
+        "projectPath": "C:\\git-iasi\\GradeAverage\\GradeAverage\\GradeAverage.csproj",
         "packagesPath": "C:\\Users\\IuliaLazar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IuliaLazar\\source\\repos\\GradeAverage\\GradeAverage\\GradeAverage\\obj\\",
+        "outputPath": "C:\\git-iasi\\GradeAverage\\GradeAverage\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\IuliaLazar\\AppData\\Roaming\\NuGet\\NuGet.Config",
