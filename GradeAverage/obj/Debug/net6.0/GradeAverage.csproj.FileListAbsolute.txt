@@ -1,0 +1,15 @@
+C:\Users\IuliaLazar\source\repos\GradeAverage\GradeAverage\GradeAverage\bin\Debug\net6.0\GradeAverage.exe
+C:\Users\IuliaLazar\source\repos\GradeAverage\GradeAverage\GradeAverage\bin\Debug\net6.0\GradeAverage.deps.json
+C:\Users\IuliaLazar\source\repos\GradeAverage\GradeAverage\GradeAverage\bin\Debug\net6.0\GradeAverage.runtimeconfig.json
+C:\Users\IuliaLazar\source\repos\GradeAverage\GradeAverage\GradeAverage\bin\Debug\net6.0\GradeAverage.dll
+C:\Users\IuliaLazar\source\repos\GradeAverage\GradeAverage\GradeAverage\bin\Debug\net6.0\ref\GradeAverage.dll
+C:\Users\IuliaLazar\source\repos\GradeAverage\GradeAverage\GradeAverage\bin\Debug\net6.0\GradeAverage.pdb
+C:\Users\IuliaLazar\source\repos\GradeAverage\GradeAverage\GradeAverage\obj\Debug\net6.0\GradeAverage.csproj.AssemblyReference.cache
+C:\Users\IuliaLazar\source\repos\GradeAverage\GradeAverage\GradeAverage\obj\Debug\net6.0\GradeAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IuliaLazar\source\repos\GradeAverage\GradeAverage\GradeAverage\obj\Debug\net6.0\GradeAverage.AssemblyInfoInputs.cache
+C:\Users\IuliaLazar\source\repos\GradeAverage\GradeAverage\GradeAverage\obj\Debug\net6.0\GradeAverage.AssemblyInfo.cs
+C:\Users\IuliaLazar\source\repos\GradeAverage\GradeAverage\GradeAverage\obj\Debug\net6.0\GradeAverage.csproj.CoreCompileInputs.cache
+C:\Users\IuliaLazar\source\repos\GradeAverage\GradeAverage\GradeAverage\obj\Debug\net6.0\GradeAverage.dll
+C:\Users\IuliaLazar\source\repos\GradeAverage\GradeAverage\GradeAverage\obj\Debug\net6.0\ref\GradeAverage.dll
+C:\Users\IuliaLazar\source\repos\GradeAverage\GradeAverage\GradeAverage\obj\Debug\net6.0\GradeAverage.pdb
+C:\Users\IuliaLazar\source\repos\GradeAverage\GradeAverage\GradeAverage\obj\Debug\net6.0\GradeAverage.genruntimeconfig.cache
